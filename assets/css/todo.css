@@ -1,3 +1,5 @@
-body {
+#container {
 	background: red;
+	width: 360px;
+	margin: 0 auto; /*centered*/
 }
